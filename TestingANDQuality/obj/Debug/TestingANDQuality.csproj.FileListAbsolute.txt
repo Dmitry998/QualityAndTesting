@@ -1,0 +1,11 @@
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\bin\Debug\TestingANDQuality.exe.config
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\bin\Debug\TestingANDQuality.exe
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\bin\Debug\TestingANDQuality.pdb
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\obj\Debug\TestingANDQuality.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\obj\Debug\TestingANDQuality.Form1.resources
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\obj\Debug\TestingANDQuality.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\obj\Debug\TestingANDQuality.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\obj\Debug\TestingANDQuality.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\obj\Debug\TestingANDQuality.exe
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\obj\Debug\TestingANDQuality.pdb
+C:\Users\Dmitry\source\repos\TestingANDQuality\TestingANDQuality\obj\Debug\TestingANDQuality.Form2.resources
